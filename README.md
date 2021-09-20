@@ -9,8 +9,8 @@
 * [hierarchical-cell-features-shortcuts.ttl](./formalizations/hierarchical-cell-features-shortcuts.ttl)
 
 ## Instantiation
-![entanglements-diagram](./figures/hierarchical-cell-features-module.png)
-* [hierarchical-cell-features-sosassn.ttl](./formalizations/hierarchical-cell-features-module.ttl)
+![module-diagram](./figures/hierarchical-cell-features-module.png)
+* [hierarchical-cell-features-module.ttl](./formalizations/hierarchical-cell-features-module.ttl)
 
 ## Documentation
 * [hierarchical-cell-features-paper.pdf](./papers/hierarchical-cell-features-paper.pdf)

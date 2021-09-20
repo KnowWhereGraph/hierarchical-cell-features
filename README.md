@@ -8,9 +8,9 @@
 ![shorcuts-diagram](./figures/hierarchical-cell-features-shortcuts.png)
 * [hierarchical-cell-features-shortcuts.ttl](./formalizations/hierarchical-cell-features-shortcuts.ttl)
 
-## Entanglements
-![entanglements-diagram](./figures/hierarchical-cell-features-sosassn.png)
-* [hierarchical-cell-features-sosassn.ttl](./formalizations/hierarchical-cell-features-sosassn.ttl)
+## Instantiation
+![entanglements-diagram](./figures/hierarchical-cell-features-module.png)
+* [hierarchical-cell-features-sosassn.ttl](./formalizations/hierarchical-cell-features-module.ttl)
 
-## Publication
+## Documentation
 * [hierarchical-cell-features-paper.pdf](./papers/hierarchical-cell-features-paper.pdf)
